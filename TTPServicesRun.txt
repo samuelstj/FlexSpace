@@ -1,0 +1,6 @@
+## Remover o processo de ID=6
+./smartrun.sh navigators.smart.reconfiguration.TTPServices 6
+
+## Adicionar o processo de ID=6 IP=127.0.0.1 PORTA:11060
+./smartrun.sh navigators.smart.reconfiguration.TTPServices 6 127.0.0.1 11060
+

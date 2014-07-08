@@ -1,0 +1,9 @@
+./smartrun.sh br.unb.cic.replication.server.ServerLaunch 0
+./smartrun.sh br.unb.cic.test.ClientTestGUI 7001
+
+Adicionar servidor
+./smartrun.sh navigators.smart.reconfiguration.TTPServices 6 127.0.0.1 11060
+Remover servidor
+./smartrun.sh navigators.smart.reconfiguration.TTPServices 6
+
+
