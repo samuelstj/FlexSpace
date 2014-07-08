@@ -2,7 +2,7 @@ FlexSpace
 =========
 Armazenamento Eficiente de Dados em Memória Compartilhada Distribuída Tolerante a Faltas
 
-# Resumo
+### Resumo
 
 Uma técnica muito empregada para tolerar falhas é a replicação. Nessa técnica, os processos (ou servidores)
 são replicados e protocolos são empregados para garantir a consistência dos dados manipulados nesses processos.
@@ -15,7 +15,7 @@ estre esses subespaços, evitando a replicação desnecessária dos dados. Para 
 da implementação, foram feitas simulações em um ambiente constituído por até 10 máquinas conectadas via rede
 em uma estrutura de aplicação distribuída.
 
-# Abstract
+### Abstract
 
 A technique widely used to tolerate faults is replication. In this technique, the processes (or servers)
 are replicated and protocols are employed to ensure the consistency of data handled in these processes.
