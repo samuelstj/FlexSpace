@@ -228,7 +228,8 @@ public class ClientTestSimul {
 
                     System.out.println("\nMedia Latência INP: " + fc.mediaLatencia(latenciasINP)/1000000);
                     System.out.println("Media Latência RDP: " + fc.mediaLatencia(latenciasRDP)/1000000);
-                    //ts.printt(1);
+                    
+//ts.printt(1);
 
                     break;
             }
